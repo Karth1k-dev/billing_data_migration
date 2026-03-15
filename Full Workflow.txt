@@ -1,0 +1,25 @@
+Full Workflow:
+    customers.csv
+        ↓
+    extract_data()
+        ↓
+    transform_data()
+        ↓
+    convert_to_json()
+        ↓
+    load_to_database()
+        ↓
+    send_to_api()
+
+Example Output:
+
+    API Responses: [201, 201, 201, 201]
+    Data migration completed
+
+Database created:
+
+    billing.db
+
+Table:
+
+    customers

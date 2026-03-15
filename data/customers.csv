@@ -1,0 +1,5 @@
+customer_id,name,email,plan,price
+1,John,john@email.com,Basic,10
+2,Mary,,Premium,30 
+3,Alice,alice@email.com,Basic,10
+4,Bob,bob@email.com,Pro,50
